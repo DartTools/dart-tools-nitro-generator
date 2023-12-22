@@ -9,3 +9,7 @@
 
   Join our discord server to get more tools
   https://discord.gg/BwHFd8emDc
+
+![image](https://github.com/DartTools/dart-tools-nitro-generator/assets/154604332/a259151e-15eb-4dc3-994d-bbf15c73ca33)
+
+
